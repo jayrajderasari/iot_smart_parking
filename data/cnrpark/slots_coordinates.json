@@ -1,0 +1,5210 @@
+{
+  "1": {
+    "slot_id": "1",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "10": {
+    "slot_id": "10",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "11": {
+    "slot_id": "11",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "12": {
+    "slot_id": "12",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "13": {
+    "slot_id": "13",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "14": {
+    "slot_id": "14",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "15": {
+    "slot_id": "15",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "16": {
+    "slot_id": "16",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "17": {
+    "slot_id": "17",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "18": {
+    "slot_id": "18",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "19": {
+    "slot_id": "19",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "2": {
+    "slot_id": "2",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "20": {
+    "slot_id": "20",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "21": {
+    "slot_id": "21",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "22": {
+    "slot_id": "22",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "23": {
+    "slot_id": "23",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "24": {
+    "slot_id": "24",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "25": {
+    "slot_id": "25",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "26": {
+    "slot_id": "26",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "27": {
+    "slot_id": "27",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "28": {
+    "slot_id": "28",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "29": {
+    "slot_id": "29",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "3": {
+    "slot_id": "3",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "30": {
+    "slot_id": "30",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "31": {
+    "slot_id": "31",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "32": {
+    "slot_id": "32",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "33": {
+    "slot_id": "33",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "34": {
+    "slot_id": "34",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "35": {
+    "slot_id": "35",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "36": {
+    "slot_id": "36",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "37": {
+    "slot_id": "37",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "38": {
+    "slot_id": "38",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "39": {
+    "slot_id": "39",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "4": {
+    "slot_id": "4",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "40": {
+    "slot_id": "40",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "41": {
+    "slot_id": "41",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "42": {
+    "slot_id": "42",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "43": {
+    "slot_id": "43",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "44": {
+    "slot_id": "44",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "45": {
+    "slot_id": "45",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "46": {
+    "slot_id": "46",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "47": {
+    "slot_id": "47",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "48": {
+    "slot_id": "48",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "49": {
+    "slot_id": "49",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "5": {
+    "slot_id": "5",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "50": {
+    "slot_id": "50",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "51": {
+    "slot_id": "51",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "6": {
+    "slot_id": "6",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "7": {
+    "slot_id": "7",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "8": {
+    "slot_id": "8",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "9": {
+    "slot_id": "9",
+    "camera": "unknown",
+    "samples": 242,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "52": {
+    "slot_id": "52",
+    "camera": "unknown",
+    "samples": 121,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "53": {
+    "slot_id": "53",
+    "camera": "unknown",
+    "samples": 121,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "184": {
+    "slot_id": "184",
+    "camera": "unknown",
+    "samples": 904,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "185": {
+    "slot_id": "185",
+    "camera": "unknown",
+    "samples": 904,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "186": {
+    "slot_id": "186",
+    "camera": "unknown",
+    "samples": 904,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "187": {
+    "slot_id": "187",
+    "camera": "unknown",
+    "samples": 1355,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "188": {
+    "slot_id": "188",
+    "camera": "unknown",
+    "samples": 1355,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "189": {
+    "slot_id": "189",
+    "camera": "unknown",
+    "samples": 900,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "190": {
+    "slot_id": "190",
+    "camera": "unknown",
+    "samples": 900,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "191": {
+    "slot_id": "191",
+    "camera": "unknown",
+    "samples": 900,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "192": {
+    "slot_id": "192",
+    "camera": "unknown",
+    "samples": 1348,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "193": {
+    "slot_id": "193",
+    "camera": "unknown",
+    "samples": 1348,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "194": {
+    "slot_id": "194",
+    "camera": "unknown",
+    "samples": 897,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "195": {
+    "slot_id": "195",
+    "camera": "unknown",
+    "samples": 897,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "196": {
+    "slot_id": "196",
+    "camera": "unknown",
+    "samples": 897,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "197": {
+    "slot_id": "197",
+    "camera": "unknown",
+    "samples": 453,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "198": {
+    "slot_id": "198",
+    "camera": "unknown",
+    "samples": 453,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "199": {
+    "slot_id": "199",
+    "camera": "unknown",
+    "samples": 453,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "200": {
+    "slot_id": "200",
+    "camera": "unknown",
+    "samples": 453,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "201": {
+    "slot_id": "201",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "202": {
+    "slot_id": "202",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "203": {
+    "slot_id": "203",
+    "camera": "unknown",
+    "samples": 457,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "204": {
+    "slot_id": "204",
+    "camera": "unknown",
+    "samples": 457,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "205": {
+    "slot_id": "205",
+    "camera": "unknown",
+    "samples": 457,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "206": {
+    "slot_id": "206",
+    "camera": "unknown",
+    "samples": 459,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "207": {
+    "slot_id": "207",
+    "camera": "unknown",
+    "samples": 459,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "208": {
+    "slot_id": "208",
+    "camera": "unknown",
+    "samples": 459,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "209": {
+    "slot_id": "209",
+    "camera": "unknown",
+    "samples": 459,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "210": {
+    "slot_id": "210",
+    "camera": "unknown",
+    "samples": 459,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "211": {
+    "slot_id": "211",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "212": {
+    "slot_id": "212",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "213": {
+    "slot_id": "213",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "214": {
+    "slot_id": "214",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "215": {
+    "slot_id": "215",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "216": {
+    "slot_id": "216",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "217": {
+    "slot_id": "217",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "218": {
+    "slot_id": "218",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "219": {
+    "slot_id": "219",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "220": {
+    "slot_id": "220",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "221": {
+    "slot_id": "221",
+    "camera": "unknown",
+    "samples": 1803,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "222": {
+    "slot_id": "222",
+    "camera": "unknown",
+    "samples": 1348,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "223": {
+    "slot_id": "223",
+    "camera": "unknown",
+    "samples": 1348,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "224": {
+    "slot_id": "224",
+    "camera": "unknown",
+    "samples": 1348,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "225": {
+    "slot_id": "225",
+    "camera": "unknown",
+    "samples": 1348,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "226": {
+    "slot_id": "226",
+    "camera": "unknown",
+    "samples": 897,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "227": {
+    "slot_id": "227",
+    "camera": "unknown",
+    "samples": 897,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "228": {
+    "slot_id": "228",
+    "camera": "unknown",
+    "samples": 1350,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "229": {
+    "slot_id": "229",
+    "camera": "unknown",
+    "samples": 1350,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "230": {
+    "slot_id": "230",
+    "camera": "unknown",
+    "samples": 1350,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "231": {
+    "slot_id": "231",
+    "camera": "unknown",
+    "samples": 901,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "232": {
+    "slot_id": "232",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "233": {
+    "slot_id": "233",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "234": {
+    "slot_id": "234",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "235": {
+    "slot_id": "235",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "236": {
+    "slot_id": "236",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "237": {
+    "slot_id": "237",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "238": {
+    "slot_id": "238",
+    "camera": "unknown",
+    "samples": 916,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "239": {
+    "slot_id": "239",
+    "camera": "unknown",
+    "samples": 916,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "240": {
+    "slot_id": "240",
+    "camera": "unknown",
+    "samples": 916,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "241": {
+    "slot_id": "241",
+    "camera": "unknown",
+    "samples": 916,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "242": {
+    "slot_id": "242",
+    "camera": "unknown",
+    "samples": 916,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "243": {
+    "slot_id": "243",
+    "camera": "unknown",
+    "samples": 459,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "244": {
+    "slot_id": "244",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "245": {
+    "slot_id": "245",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "246": {
+    "slot_id": "246",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "247": {
+    "slot_id": "247",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "248": {
+    "slot_id": "248",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "249": {
+    "slot_id": "249",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "250": {
+    "slot_id": "250",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "251": {
+    "slot_id": "251",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "252": {
+    "slot_id": "252",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "253": {
+    "slot_id": "253",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "254": {
+    "slot_id": "254",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "255": {
+    "slot_id": "255",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "256": {
+    "slot_id": "256",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "257": {
+    "slot_id": "257",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "258": {
+    "slot_id": "258",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "259": {
+    "slot_id": "259",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "262": {
+    "slot_id": "262",
+    "camera": "unknown",
+    "samples": 1348,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "263": {
+    "slot_id": "263",
+    "camera": "unknown",
+    "samples": 1348,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "264": {
+    "slot_id": "264",
+    "camera": "unknown",
+    "samples": 1350,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "265": {
+    "slot_id": "265",
+    "camera": "unknown",
+    "samples": 1350,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "266": {
+    "slot_id": "266",
+    "camera": "unknown",
+    "samples": 1350,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "267": {
+    "slot_id": "267",
+    "camera": "unknown",
+    "samples": 1350,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "268": {
+    "slot_id": "268",
+    "camera": "unknown",
+    "samples": 1358,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "269": {
+    "slot_id": "269",
+    "camera": "unknown",
+    "samples": 1358,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "270": {
+    "slot_id": "270",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "271": {
+    "slot_id": "271",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "272": {
+    "slot_id": "272",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "273": {
+    "slot_id": "273",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "274": {
+    "slot_id": "274",
+    "camera": "unknown",
+    "samples": 1369,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "275": {
+    "slot_id": "275",
+    "camera": "unknown",
+    "samples": 1369,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "276": {
+    "slot_id": "276",
+    "camera": "unknown",
+    "samples": 1369,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "277": {
+    "slot_id": "277",
+    "camera": "unknown",
+    "samples": 916,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "278": {
+    "slot_id": "278",
+    "camera": "unknown",
+    "samples": 916,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "279": {
+    "slot_id": "279",
+    "camera": "unknown",
+    "samples": 916,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "280": {
+    "slot_id": "280",
+    "camera": "unknown",
+    "samples": 1362,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "281": {
+    "slot_id": "281",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "282": {
+    "slot_id": "282",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "283": {
+    "slot_id": "283",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "284": {
+    "slot_id": "284",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "285": {
+    "slot_id": "285",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "286": {
+    "slot_id": "286",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "287": {
+    "slot_id": "287",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "288": {
+    "slot_id": "288",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "289": {
+    "slot_id": "289",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "290": {
+    "slot_id": "290",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "291": {
+    "slot_id": "291",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "292": {
+    "slot_id": "292",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "293": {
+    "slot_id": "293",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "294": {
+    "slot_id": "294",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "295": {
+    "slot_id": "295",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "296": {
+    "slot_id": "296",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "297": {
+    "slot_id": "297",
+    "camera": "unknown",
+    "samples": 1352,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "298": {
+    "slot_id": "298",
+    "camera": "unknown",
+    "samples": 1352,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "299": {
+    "slot_id": "299",
+    "camera": "unknown",
+    "samples": 1352,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "300": {
+    "slot_id": "300",
+    "camera": "unknown",
+    "samples": 1352,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "301": {
+    "slot_id": "301",
+    "camera": "unknown",
+    "samples": 901,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "302": {
+    "slot_id": "302",
+    "camera": "unknown",
+    "samples": 901,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "303": {
+    "slot_id": "303",
+    "camera": "unknown",
+    "samples": 901,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "304": {
+    "slot_id": "304",
+    "camera": "unknown",
+    "samples": 1358,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "305": {
+    "slot_id": "305",
+    "camera": "unknown",
+    "samples": 1358,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "306": {
+    "slot_id": "306",
+    "camera": "unknown",
+    "samples": 1358,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "307": {
+    "slot_id": "307",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "308": {
+    "slot_id": "308",
+    "camera": "unknown",
+    "samples": 910,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "309": {
+    "slot_id": "309",
+    "camera": "unknown",
+    "samples": 1369,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "310": {
+    "slot_id": "310",
+    "camera": "unknown",
+    "samples": 1369,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "311": {
+    "slot_id": "311",
+    "camera": "unknown",
+    "samples": 1369,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "312": {
+    "slot_id": "312",
+    "camera": "unknown",
+    "samples": 1369,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "313": {
+    "slot_id": "313",
+    "camera": "unknown",
+    "samples": 1362,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "314": {
+    "slot_id": "314",
+    "camera": "unknown",
+    "samples": 1362,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "315": {
+    "slot_id": "315",
+    "camera": "unknown",
+    "samples": 1362,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "316": {
+    "slot_id": "316",
+    "camera": "unknown",
+    "samples": 1362,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "317": {
+    "slot_id": "317",
+    "camera": "unknown",
+    "samples": 1362,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "318": {
+    "slot_id": "318",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "319": {
+    "slot_id": "319",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "320": {
+    "slot_id": "320",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "321": {
+    "slot_id": "321",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "322": {
+    "slot_id": "322",
+    "camera": "unknown",
+    "samples": 905,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "323": {
+    "slot_id": "323",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "324": {
+    "slot_id": "324",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "325": {
+    "slot_id": "325",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "326": {
+    "slot_id": "326",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "327": {
+    "slot_id": "327",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "328": {
+    "slot_id": "328",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "329": {
+    "slot_id": "329",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "330": {
+    "slot_id": "330",
+    "camera": "unknown",
+    "samples": 909,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "331": {
+    "slot_id": "331",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "601": {
+    "slot_id": "601",
+    "camera": "unknown",
+    "samples": 455,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "602": {
+    "slot_id": "602",
+    "camera": "unknown",
+    "samples": 455,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "603": {
+    "slot_id": "603",
+    "camera": "unknown",
+    "samples": 904,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "604": {
+    "slot_id": "604",
+    "camera": "unknown",
+    "samples": 900,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "605": {
+    "slot_id": "605",
+    "camera": "unknown",
+    "samples": 900,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "606": {
+    "slot_id": "606",
+    "camera": "unknown",
+    "samples": 1348,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "607": {
+    "slot_id": "607",
+    "camera": "unknown",
+    "samples": 897,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "608": {
+    "slot_id": "608",
+    "camera": "unknown",
+    "samples": 897,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "609": {
+    "slot_id": "609",
+    "camera": "unknown",
+    "samples": 453,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "610": {
+    "slot_id": "610",
+    "camera": "unknown",
+    "samples": 457,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "611": {
+    "slot_id": "611",
+    "camera": "unknown",
+    "samples": 459,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "612": {
+    "slot_id": "612",
+    "camera": "unknown",
+    "samples": 459,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "613": {
+    "slot_id": "613",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "614": {
+    "slot_id": "614",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "615": {
+    "slot_id": "615",
+    "camera": "unknown",
+    "samples": 446,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "616": {
+    "slot_id": "616",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "617": {
+    "slot_id": "617",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  },
+  "618": {
+    "slot_id": "618",
+    "camera": "unknown",
+    "samples": 463,
+    "coordinates": [
+      [
+        0,
+        0
+      ],
+      [
+        150,
+        0
+      ],
+      [
+        150,
+        150
+      ],
+      [
+        0,
+        150
+      ]
+    ],
+    "notes": "Placeholder - awaiting full image dataset with bounding boxes"
+  }
+}

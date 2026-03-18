@@ -1,0 +1,40 @@
+{
+  "dataset": "CNRPark-Sample",
+  "images": [
+    {
+      "filename": "parking_lot_001.jpg",
+      "width": 1920,
+      "height": 1440,
+      "slots": [
+        {
+          "id": 1,
+          "bbox": [
+            100,
+            50,
+            200,
+            150
+          ],
+          "occupancy": "empty",
+          "confidence": 0.95
+        },
+        {
+          "id": 2,
+          "bbox": [
+            220,
+            50,
+            320,
+            150
+          ],
+          "occupancy": "occupied",
+          "confidence": 0.98
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "date": "2025-01-16",
+    "location": "Pisa, Italy",
+    "camera_height": 15.0,
+    "camera_angle": 45.0
+  }
+}

@@ -1,0 +1,22 @@
+# Smart Parking System – Python dependencies
+#
+# Install on HPC (no internet needed after this step):
+#   pip install -r requirements.txt --no-index --find-links /path/to/wheelhouse
+# Or with internet:
+#   pip install -r requirements.txt
+#
+# Python >= 3.10 required (uses X | Y type-union syntax in logger.py)
+
+# Core ML / detection
+ultralytics>=8.0.0          # YOLOv8 – must be installed alongside its yolov8n.pt weights
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Geometry
+shapely>=2.0.0
+
+# Numerics (already pulled in by torch/ultralytics but listed explicitly)
+numpy>=1.24.0
+
+# Optional – only needed if using visualize_detections()
+# opencv-python>=4.8.0
